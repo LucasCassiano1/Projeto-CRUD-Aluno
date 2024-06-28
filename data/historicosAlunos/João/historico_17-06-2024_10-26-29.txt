@@ -1,0 +1,5 @@
+Data do Calculo: 17-06-2024 10-26-29
+CPF: 3123213123
+Nome do Aluno: João
+Indice IMC: 22.47 - Peso normal
+
